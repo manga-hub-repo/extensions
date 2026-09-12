@@ -16,8 +16,8 @@
           "jarUrl": "https://github.com/manga-hub-repo/extensions/releases/download/v1.0.0/baramangaonline.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "versionCode": 2,
+        "versionName": "1.4.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -25,6 +25,24 @@
             "name": "Bara Manga Online",
             "language": "all",
             "homeUrl": "https://baramangaonline.com"
+          },
+          {
+            "id": "6717500148170379598",
+            "name": "Bara Manga Online",
+            "language": "zh",
+            "homeUrl": "https://baramangaonline.com/category/languages/chinese/"
+          },
+          {
+            "id": "7440918882056764636",
+            "name": "Bara Manga Online",
+            "language": "en",
+            "homeUrl": "https://baramangaonline.com/category/languages/english/"
+          },
+          {
+            "id": "5391697958327164046",
+            "name": "Bara Manga Online",
+            "language": "ja",
+            "homeUrl": "https://baramangaonline.com/category/languages/japanese/"
           }
         ]
       }
